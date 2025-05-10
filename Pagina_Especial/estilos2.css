@@ -1,0 +1,17 @@
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor{
+    height: 100vh;
+    background-color: yellow;
+}
+
+.contenedor img{
+    width: 30%;
+}
+
+.parrafo{
+    width: 50%;
+}
